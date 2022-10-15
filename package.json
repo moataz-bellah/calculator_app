@@ -13,7 +13,16 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
-    "react-native-web": "~0.13.12"
+    "react-native-camera": "git+https://git@github.com/react-native-community/react-native-camera.git",
+    "react-native-camera-kit": "^11.2.1",
+    "react-native-image-crop-picker": "^0.36.2",
+    "react-native-open-maps": "^0.3.6",
+    "react-native-ratings": "^8.1.0",
+    "react-native-star-rating": "^1.1.0",
+    "react-native-video": "^5.2.1",
+    "react-native-web": "^0.17.1",
+    "expo-updates": "~0.8.2",
+    "expo-av": "~9.2.3"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
